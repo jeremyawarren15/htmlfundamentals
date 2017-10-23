@@ -1,0 +1,16 @@
+.second {
+	width: 70%;
+	background-color: green;
+}
+
+.third {
+	width: 70%;
+	background-color: red;
+	float: left;
+}
+
+.fourth {
+	background-color: yellow;
+	width: 30%;
+	float: right;
+}
