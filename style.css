@@ -1,0 +1,21 @@
+.blueBackground {
+	background-color: cornFlowerBlue;
+}
+
+.smallBorder {
+	border: 2px solid black;
+}
+
+.largeRedBorder {
+	border: 10px solid red;
+}
+
+h3 {
+	color: red;
+}
+
+div {
+	width: 400px;
+	margin: auto;
+	padding: 15px;
+}
